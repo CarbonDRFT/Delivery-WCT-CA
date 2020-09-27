@@ -1,0 +1,122 @@
+header {
+  background-color: #fff;
+  margin-top: 0px;
+  font-family: "Varela Round", sans-serif;
+  width: 100%;
+}
+
+.topnav,
+.topnav-opening {
+  color: #707070;
+  text-align: right;
+  float: right;
+  margin-left: 1.5em;
+  margin-top: 0;
+}
+
+.topnav,
+a {
+  color: #707070;
+  font-family: "Varela Round", sans-serif;
+  overflow: hidden;
+  text-decoration: none;
+}
+
+.top-nav-link:hover,
+.nav-link:hover {
+  color: #fdb834;
+}
+
+.navbar {
+  overflow: hidden;
+  background-color: #fff;
+}
+
+/* Navigation links */
+.navbar a {
+  float: left;
+  font-size: 18px;
+  color: #707070;
+  text-align: center;
+  margin-right: 3rem;
+  margin-top: 5px;
+  text-decoration: none;
+}
+
+/* The subnavigation menu */
+.navbar {
+  float: left;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Varela Round", sans-serif;
+  font-size: 55px;
+}
+
+body {
+  background-color: #fff;
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.new-jacket,
+.jacket-men,
+.jacket-women {
+  float: left;
+  width: 50%;
+  margin: none;
+  padding: none;
+}
+
+.jacket-men {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  opacity: 0.4;
+}
+
+.text-men {
+  position: absolute;
+  color: #fdb834;
+  font-family: "Varela Round", sans-serif;
+  left: 25%;
+  top: 25%;
+  opacity: 0.7;
+}
+
+.new-men-jacket {
+  color: #fdb834;
+}
+
+.jacket-women {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  opacity: 0.4;
+}
+
+.text-women {
+  position: absolute;
+  color: #fdb834;
+  font-family: "Varela Round", sans-serif;
+  right: 22.5%;
+  top: 25%;
+  opacity: 0.7;
+}
+
+.new-women-jacket {
+  color: #fdb834;
+}
+
+main {
+  background-color: antiquewhite;
+  padding-bottom: 300px;
+}
+
+footer {
+  background-color: #dedede;
+  text-align: center;
+  font-family: "Varela Round", sans-serif;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
